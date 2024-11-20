@@ -9,5 +9,3 @@
 - **Dynamic image scaling** to optimize memory usage before compression.
 - **Support for multiple image formats** including JPEG, PNG, and WebP.
 - **Adjustable quality reduction** to ensure that compressed images are under a specified size threshold.
-
-## Installation
